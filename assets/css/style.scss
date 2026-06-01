@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "minima/skins/classic";
-@import "minima/initialize";
+@import "minima";
 
 /* === ALGEMEEN === */
 body {
@@ -33,11 +32,9 @@ body {
   color: #e94560 !important;
 }
 
-/* === POSTS OVERZICHT === */
 .post-list h3 a {
   color: #1a1a2e;
   font-weight: 700;
-  font-size: 1.2rem;
 }
 
 .post-list h3 a:hover {
@@ -48,14 +45,10 @@ body {
 .post-meta {
   color: #e94560;
   font-size: 0.85rem;
-  font-weight: 500;
 }
 
-/* === POST PAGINA === */
 .post-header .post-title {
   color: #1a1a2e;
-  font-size: 2rem;
-  font-weight: 800;
   border-left: 5px solid #e94560;
   padding-left: 15px;
 }
@@ -71,11 +64,6 @@ body {
   color: #e94560;
 }
 
-.post-content a:hover {
-  color: #1a1a2e;
-}
-
-/* === FOOTER === */
 .site-footer {
   background-color: #1a1a2e;
   color: #aaaaaa;
@@ -84,17 +72,4 @@ body {
 
 .site-footer a {
   color: #e94560;
-}
-
-/* === ABOUT PAGINA === */
-.page-content h1 {
-  color: #1a1a2e;
-  border-left: 5px solid #e94560;
-  padding-left: 15px;
-}
-
-.page-content h2 {
-  color: #1a1a2e;
-  border-bottom: 2px solid #e94560;
-  padding-bottom: 5px;
 }
