@@ -4,7 +4,7 @@ title: "The 5 Levels of Infrastructure as Code"
 date: 2026-04-28
 ---
 
-<img width="4000" height="auto" alt="1000006718" src="https://github.com/user-attachments/assets/03f3114f-6449-4042-9820-49078d83d9b0" />
+<img width="4000" height=auto alt="1000006718" src="https://github.com/user-attachments/assets/03f3114f-6449-4042-9820-49078d83d9b0" />
 
 For my final Tech&Meet of the academic year, I attended "The 5 Levels of 
 Infrastructure as Code", a talk by Tim Van Roosbroeck and Dimitry Decan from 
