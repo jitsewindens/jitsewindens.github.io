@@ -4,7 +4,7 @@ title: "BusIT Week Hasselt: Pioneering Robotics at PXL-Digital"
 date: 2026-03-16
 ---
 
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/c3d6dd54-8175-4b1d-9e21-3872c13a9861" />
+<img width="1024" height=auto alt="image" src="https://github.com/user-attachments/assets/c3d6dd54-8175-4b1d-9e21-3872c13a9861" />
 
 In the last week of April 2026, I had the opportunity to take part in the 
 International BusIT Week, hosted by PXL-Digital in Hasselt. Our Howest 
@@ -28,7 +28,7 @@ a virtual car drive around a circuit using keyboard controls.
 
 ## Day 2: Computer Vision
 
-<img width="945" height="594" alt="image" src="https://github.com/user-attachments/assets/dc5fac66-1c3a-4568-a248-dc952d8ed4e2" />
+<img width="945" height=auto alt="image" src="https://github.com/user-attachments/assets/dc5fac66-1c3a-4568-a248-dc952d8ed4e2" />
 
 Day two focused entirely on computer vision. Our challenge was to use computer 
 vision to get a car to autonomously complete a lap of the circuit, recognising 
