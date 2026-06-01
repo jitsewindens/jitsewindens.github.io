@@ -47,7 +47,7 @@ On the regulatory side, the speaker brought on several key European laws: the
 NIS2 directive, the Cyber Resilience Act and the Cyber Solidarity Act. These 
 are pushing organizations to take security seriously at a structural level.
 
-<img width="2400" height="1080" alt="1000007101" src="https://github.com/user-attachments/assets/8a049b7f-7388-468f-885e-3736d3a6dc64" />
+<img width="2400" height=auto alt="1000007101" src="https://github.com/user-attachments/assets/8a049b7f-7388-468f-885e-3736d3a6dc64" />
 
 ## My reflection
 
