@@ -10,7 +10,7 @@ Machine Learning Engineer at both Hugging Face and ML6, and fun fact he's
 the only Belgian employee at Hugging Face. He studied at KU Leuven and is 
 actively contributing to the open-source Transformers library.
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/46e2f9da-6c02-4881-9034-c1b4609f507c" />
+<img alt="Hugging Face talk" src="https://github.com/user-attachments/assets/46e2f9da-6c02-4881-9034-c1b4609f507c" style="max-width: 500px;" />
 
 
 ## About the event
