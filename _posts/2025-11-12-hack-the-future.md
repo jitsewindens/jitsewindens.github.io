@@ -9,7 +9,7 @@ in Antwerp. I must admit that I wasn't really looking forward to it before I
 arrived, but that changed quite quickly thanks to the warm and professional 
 welcome from the organisers.
 
-<img width="1080" height="1432" alt="1000007103" src="https://github.com/user-attachments/assets/f11f7e24-5e6e-4449-bfcb-2b7cd21c8b0c" />
+<img width="1080"  height=auto alt="1000007103" src="https://github.com/user-attachments/assets/f11f7e24-5e6e-4449-bfcb-2b7cd21c8b0c" />
 
 ## Morning
 
@@ -44,7 +44,7 @@ and a drink at lunch. This gave us a chance to do some networking and get to
 know new people. We even took a quick stroll through the zoo, to which we 
 had free entry that day.
 
-<img width="1452" height="1074" alt="1000007105" src="https://github.com/user-attachments/assets/2625e42b-b201-4afb-be0d-445e1992ed98" />
+<img width="1452" height=auto alt="1000007105" src="https://github.com/user-attachments/assets/2625e42b-b201-4afb-be0d-445e1992ed98" />
 
 ## The finale
 
