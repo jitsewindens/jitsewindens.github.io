@@ -4,7 +4,7 @@ title: "The Birth of NATO's Cyber Defence"
 date: 2025-12-02
 ---
 
-<img width="2400" height="1080" alt="1000007100" src="https://github.com/user-attachments/assets/5be39aeb-80ad-42f8-bf2f-59313ee448b6" />
+<img width="2400" height=auto alt="1000007100" src="https://github.com/user-attachments/assets/5be39aeb-80ad-42f8-bf2f-59313ee448b6" />
 
 My second Tech&Meet is a fact! I attended "The Birth of NATO's Cyber 
 Defence", who are settled at the NATO headquarters in Brussels. As someone who is 
