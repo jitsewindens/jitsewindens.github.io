@@ -4,7 +4,7 @@ title: "Protecting Belgium: Jobs in Cybersecurity"
 date: 2025-12-16
 ---
 
-<img width="2400" height="1080" alt="1000007106" src="https://github.com/user-attachments/assets/6524a6bf-06b9-4577-aa9b-7ce85a54fe3b" />
+<img width="2400" height=auto alt="1000007106" src="https://github.com/user-attachments/assets/6524a6bf-06b9-4577-aa9b-7ce85a54fe3b" />
 
 For my third Tech&Meet, I attended "Protecting Belgium: Jobs in Cybersecurity". 
 Given everything that's happening in the world right now with cyber attacks and 
