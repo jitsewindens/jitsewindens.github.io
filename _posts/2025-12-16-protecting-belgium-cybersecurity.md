@@ -45,7 +45,7 @@ The talk also touched on combat aircraft and drone technology, which I find
 absolutely fascinating. Seeing how cyber operations connect to physical 
 military assets like these made the whole picture much more concrete.
 
-<img width="2400" height="1080" alt="1000007107 (1)" src="https://github.com/user-attachments/assets/3420a6f7-53eb-4d75-975c-4a869eca4dd2" />
+<img width="2400" height=auto alt="1000007107 (1)" src="https://github.com/user-attachments/assets/3420a6f7-53eb-4d75-975c-4a869eca4dd2" />
 
 The concept of **cyber intelligence sharing**: collecting, evaluating and 
 informing across organisations also stood out to me as something that's 
