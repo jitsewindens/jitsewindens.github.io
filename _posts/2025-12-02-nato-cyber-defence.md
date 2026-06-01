@@ -7,7 +7,7 @@ date: 2025-12-02
 <img width="2400" height=auto alt="1000007100" src="https://github.com/user-attachments/assets/5be39aeb-80ad-42f8-bf2f-59313ee448b6" />
 
 My second Tech&Meet is a fact! I attended "The Birth of NATO's Cyber 
-Defence", who are settled at the NATO headquarters in Brussels. As someone who is 
+Defence", based at the NATO headquarters in Brussels. As someone who is 
 genuinely interested in NATO and military technology, this was right up my 
 alley and it didn't disappoint.
 
@@ -28,7 +28,7 @@ for many nations, including NATO's 31 allied members.
 
 A big theme throughout the talk was that cyber defence is still heavily 
 underestimated. Things like contingency plans and disaster recovery plans are 
-often deprioritized, even though they are critical. They made us very clear that
+often deprioritized, even though they are critical. They made it very clear that
 if it's not cyber safe, there is no mission.
 
 Another concept that stuck with me was **hybrid warfare**, where you attack 
@@ -51,7 +51,7 @@ are pushing organizations to take security seriously at a structural level.
 
 ## My reflection
 
-This was by one of the most interesting talk sessions I've attended. 
+This was one of the most interesting talk sessions I've attended. 
 The combination of military context, real-world examples and current regulations 
 made everything feel very relevant.
 
@@ -59,4 +59,4 @@ The speaker emphasized that proper use of IT and recognising phishing attacks sh
 That's something I completely agree with. Cyber defence isn't just a government 
 or military problem, it starts with every individual user.
 
-I would absolutely recommend this kind of event to anyone interested in cybersecurity or Nato
+I would absolutely recommend this kind of event to anyone interested in cybersecurity or Nato.
